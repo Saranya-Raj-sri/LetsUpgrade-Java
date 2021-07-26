@@ -3,14 +3,14 @@ class Employee{
     int age;
     String city;
     void empl(String n,int a,String c){
-    	name=n;
-    	age=a;
-    	city=c;
+    	nam=n;
+    	ag=a;
+    	cit=c;
     }
     void display(){
-    	System.out.println("The name is: "+name);
-    	System.out.println("The age is: "+age);
-    	System.out.println("The city is: "+city);
+    	System.out.println("The name is: "+nam);
+    	System.out.println("The age is: "+ag);
+    	System.out.println("The city is: "+cit);
     }
 }
 public class LetsUpgrade1 {
